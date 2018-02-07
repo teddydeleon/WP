@@ -1,0 +1,14 @@
+/*
+Theme Name: Deleon Media
+Theme URI: https://www.thewebsquad.com
+Author: Teddy Deleon
+Author URI: https://www.thewebsquad.comm
+Description: A simple blog theme built on The Web Squad Power
+Version: 0.1
+License: The MIT License (MIT)
+License URI: https://opensource.org/licenses/MIT
+*/
+
+div.entry-content div.container {
+  width: auto;
+}
